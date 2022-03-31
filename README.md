@@ -12,6 +12,7 @@ You can click the Preview link to take a look at your changes.
     <h1>
         👋 Hi, I’m Ali Davoudi ( @Ali-Davoudi-Developer )
     </h1>
+	<br>
    <p>
    		※ 👀 I’m interested in Coding, Playing Guitar; principally Flamenco style and Swimming
        <br>
