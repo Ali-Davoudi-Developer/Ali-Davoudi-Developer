@@ -15,6 +15,7 @@ You can click the Preview link to take a look at your changes.
 	<br>
    <p>
    		※ 👀 I’m interested in Coding, Playing Guitar; principally Flamenco style and Swimming
+	<br>
        <br>
 		※ 🌱 I’m currently learning Django REST Framework, SQL and MongoDB
        <br>
