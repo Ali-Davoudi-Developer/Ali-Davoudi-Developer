@@ -10,7 +10,7 @@ You can click the Preview link to take a look at your changes.
 </head>
 <body>
     <h1>
-        👋 Hi, I’m Ali Davoudi ( @Ali-Davoudi-Developer )
+        👋 Hi, I’m Ali Davoudi
     </h1>
 	<br>
    <p>
