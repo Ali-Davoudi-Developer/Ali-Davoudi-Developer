@@ -9,7 +9,7 @@ You can click the Preview link to take a look at your changes.
 	<meta charset="utf-8">
 </head>
 <body>
-	<center>👋 Hi, I’m Ali Davoudi</center>
+	<h1>👋 Hi, I’m Ali Davoudi</h1>
 	<br>
    <p>
    		※ 👀 I’m interested in Coding, Playing Guitar; principally Flamenco style and Swimming
