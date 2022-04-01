@@ -15,10 +15,10 @@ You can click the Preview link to take a look at your changes.
    		 👀 I’m interested in Coding, Playing Guitar; principally Flamenco style
 	<br>
        <br>
-		 🌱 I’m currently learning Django REST Framework & MongoDB
+	   🌱 I’m currently learning <a href="https://www.django-rest-framework.org/">DRF</a> & <a href="https://www.mongodb.com/">MongoDB</a>
 	   <br>
        <br>
-		 📫 E-mail address: Ali_Davoudi@hotmail.com
+	   📫 E-mail address: <a href="mailto:ali_davoudi@hotmail.com">Ali_Davoudi@hotmail.com</a>
    </p>
 	<hr>
 	<h3> Skills and Tools</h3>
