@@ -1,5 +1,5 @@
 <!---
-Ali-Davoudi-Developer/Ali-Davoudi-Developer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Ali-Davoudi/Ali-Davoudi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 
@@ -68,4 +68,4 @@ You can click the Preview link to take a look at your changes.
 
 
 <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ali-Davoudi-Developer&show_icons=true&theme=radical) -->
-![](https://github-readme-stats.vercel.app/api?username=Ali-Davoudi-Developer&count_private=true&show_icons=true&theme=radical)
+![](https://github-readme-stats.vercel.app/api?username=Ali-Davoudi&count_private=true&show_icons=true&theme=radical)
