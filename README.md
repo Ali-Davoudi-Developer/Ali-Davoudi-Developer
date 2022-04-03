@@ -48,9 +48,6 @@ You can click the Preview link to take a look at your changes.
 		<a href="https://www.linux.org/"> 
          	 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="75" width="75" alt="linux">
 		</a>
-		<a href="https://ubuntu.com/"> 
-         	 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="75" width="75" alt="ubuntu">
-		</a>
 		<a href="https://code.visualstudio.com/"> 
          	 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="75" width="75" alt="vscode">
 		</a>
