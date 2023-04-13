@@ -27,7 +27,7 @@ You can click the Preview link to take a look at your changes.
 		<a href="https://www.djangoproject.com/">         
            	 <img src="https://www.djangoproject.com/m/img/logos/django-logo-negative.svg" height="75" width="75" alt="django">
 		</a>
-		<a href="https://www.djangoproject.com/">         
+		<a href="https://www.django-rest-framework.org/">         
            	 <img src="https://www.django-rest-framework.org/img/favicon.ico" height="75" width="75" alt="django-rest-framework">
 		</a>	
 		<a href="https://www.w3schools.com/html/">
