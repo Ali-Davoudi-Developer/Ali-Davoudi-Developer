@@ -21,31 +21,31 @@ You can click the Preview link to take a look at your changes.
 	<h3> Skills and Tools</h3>
 	<br>
 	<p>	
-		<a href="https://www.python.org/">	
+		<a href="https://www.python.org/" target="_blank">	
           	 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="75" width="75" alt="python">
 		</a>
-		<a href="https://www.djangoproject.com/">         
+		<a href="https://www.djangoproject.com/" target="_blank">         
            	 <img src="https://www.djangoproject.com/m/img/logos/django-logo-negative.svg" height="75" width="75" alt="django">
 		</a>
-		<a href="https://www.django-rest-framework.org/">         
+		<a href="https://www.django-rest-framework.org/" target="_blank">         
            	 <img src="https://www.django-rest-framework.org/img/favicon.ico" height="75" width="75" alt="django-rest-framework">
 		</a>	
-		<a href="https://www.w3schools.com/html/">
+		<a href="https://www.w3schools.com/html/" target="_blank">
             	 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" height="75" width="75" alt="html">
 		</a>
-		<a href="https://www.w3schools.com/css/">
+		<a href="https://www.w3schools.com/css/" target="_blank">
             	 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" height="75" width="75" alt="css">
 		</a>
-		<a href="https://getbootstrap.com/"> 
+		<a href="https://getbootstrap.com/" target="_blank"> 
          	 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="75" width="75" alt="bootstrap">
 		</a>
-		<a href="https://git-scm.com/"> 
+		<a href="https://git-scm.com/" target="_blank"> 
          	 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="75" width="75" alt="git">
 		</a>
-		<a href="https://www.w3schools.com/CPP/default.asp"> 
+		<a href="https://www.w3schools.com/CPP/default.asp" target="_blank"> 
          	 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" height="75" width="75" alt="cpp">
 		</a>
-		<a href="https://www.linux.org/"> 
+		<a href="https://www.linux.org/" target="_blank"> 
          	 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="75" width="75" alt="linux">
 		</a>
 		<hr>
