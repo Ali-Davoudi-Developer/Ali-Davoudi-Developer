@@ -37,7 +37,7 @@ You can click the Preview link to take a look at your changes.
             	 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" height="75" width="75" alt="css">
 		</a>
 		<a href="https://www.javascript.com/">
-            	 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/900px-JavaScript-logo.png?20120221235433" height="75" width="75" alt="javascript">
+            	 <img src="https://logodownload.org/wp-content/uploads/2022/04/javascript-logo-0.png" height="75" width="75" alt="javascript">
 		</a>
 		<a href="https://getbootstrap.com/"> 
          	 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="75" width="75" alt="bootstrap">
