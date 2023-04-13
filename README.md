@@ -45,15 +45,6 @@ You can click the Preview link to take a look at your changes.
 		<a href="https://www.linux.org/"> 
          	 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="75" width="75" alt="linux">
 		</a>
-		<a href="https://code.visualstudio.com/"> 
-         	 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="75" width="75" alt="vscode">
-		</a>
-		<a href="https://www.jetbrains.com/pycharm/"> 
-         	 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/2048px-PyCharm_Icon.svg.png" height="75" width="75" alt="pycharm">
-		</a>
-		<a href="https://www.jetbrains.com/webstorm/"> 
-         	 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/WebStorm_Icon.svg/1200px-WebStorm_Icon.svg.png" height="75" width="75" alt="webstrom">
-		</a>
 		<hr>
 	<br>
 
