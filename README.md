@@ -15,7 +15,7 @@ You can click the Preview link to take a look at your changes.
    		👀 I’m interested in Coding, Playing Guitar; principally Flamenco style
 	<br>
 <!-- 	   	🌱 I’m currently learning SQL -->
-	<br>
+<!-- 	<br> -->
        	<br>
 	   	📫 E-mail address: <a href="mailto:ali_davoudi@hotmail.com">Ali_Davoudi@hotmail.com</a>
    </p>
