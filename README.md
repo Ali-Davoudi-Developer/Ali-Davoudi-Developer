@@ -36,6 +36,9 @@ You can click the Preview link to take a look at your changes.
 		<a href="https://www.w3schools.com/css/">
             	 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" height="75" width="75" alt="css">
 		</a>
+		<a href="https://www.javascript.com/">
+            	 <img src="https://1000logos.net/wp-content/uploads/2020/09/JavaScript-Logo-768x480.png" height="75" width="75" alt="css">
+		</a>
 		<a href="https://getbootstrap.com/"> 
          	 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="75" width="75" alt="bootstrap">
 		</a>
