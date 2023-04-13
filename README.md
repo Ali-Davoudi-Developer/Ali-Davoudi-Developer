@@ -12,10 +12,12 @@ You can click the Preview link to take a look at your changes.
 	<h1>👋 Hi, I’m Ali Davoudi</h1>
 	<br>
    <p>
-   		 👀 I’m interested in Coding, Playing Guitar; principally Flamenco style
+   		👀 I’m interested in Coding, Playing Guitar; principally Flamenco style
 	<br>
-       <br>
-	   📫 E-mail address: <a href="mailto:ali_davoudi@hotmail.com">Ali_Davoudi@hotmail.com</a>
+	   	🌱 I’m currently learning SQL.
+	<br>
+       	<br>
+	   	📫 E-mail address: <a href="mailto:ali_davoudi@hotmail.com">Ali_Davoudi@hotmail.com</a>
    </p>
 	<hr>
 	<h3> Skills and Tools</h3>
