@@ -31,7 +31,7 @@ You can click the Preview link to take a look at your changes.
            	 <img src="https://www.django-rest-framework.org/img/favicon.ico" height="75" width="75" alt="django-rest-framework">
 		</a>
 		<a href="https://www.mongodb.com/">         
-           	 <img src="https://www.pngall.com/wp-content/uploads/13/Mongodb-PNG-Image-HD.png" height="75" width="75" alt="mongodb">
+           	 <img src="https://v30.openhab.org/logos/mongodb.png" height="75" width="75" alt="mongodb">
 		</a>	
 		<a href="https://www.w3schools.com/html/">
             	 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" height="75" width="75" alt="html">
